@@ -1,8 +1,8 @@
 # UX portfolio template 1920
 
-## Name:
+## Name: Evelien Rutsaert
 
-## Group:
+## Group: 1NMD
 
 ## Getting Started
 
